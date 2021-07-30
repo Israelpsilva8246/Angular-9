@@ -1,0 +1,39 @@
+{
+  "prodcts": [
+    {
+      "id": 1,
+      "name": "Iphone 12",
+      "price": "8000"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20",
+      "price": 5000
+    },
+    {
+      "name": "Notebook Acer",
+      "price": "2100",
+      "id": 5
+    },
+    {
+      "name": "Iphone 12 Pro Max",
+      "price": "10000",
+      "id": 6
+    },
+    {
+      "name": "Mouse Redragon",
+      "price": "179.99",
+      "id": 7
+    },
+    {
+      "name": "Iphone 11",
+      "price": "4000",
+      "id": 8
+    }
+  ]
+}
